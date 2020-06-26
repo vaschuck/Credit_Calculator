@@ -1,4 +1,4 @@
-# Credit_Calculator
+# Credit Calculator
 My implementation of JetBrains Academy Credit Calculator project.
 
 # Stage 1/4: [Beginning](https://github.com/paula-bueno/Credit_Calculator/tree/master/Credit%20Calculator/Beginning)
